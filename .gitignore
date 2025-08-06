@@ -1,0 +1,22 @@
+# Arquivos temporários do MATLAB
+*.asv
+*.m~
+*.fig
+*.mdl~
+*.mat
+*.slxc
+*.autosave
+
+# Arquivos de log
+*.log
+
+# Pastas de cache/IDE
+.DS_Store
+*.bak
+*.tmp
+*.orig
+.vscode/
+.idea/
+
+# Arquivos gerados
+*.mex*
